@@ -1,0 +1,13 @@
+name: filterable
+version: 0.1.0
+
+authors:
+  - Gary Mardell <info@garymardell.co.uk>
+
+crystal: 1.7.1
+
+license: MIT
+
+dependencies:
+  lingo:
+    github: rmosolgo/lingo
